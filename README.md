@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Mayukh Dewan
-- 👀 I’m a Second Year Statistics Student at the University of Waterloo
-- 🌱 I have a keen interest in Machine Learning, Data Analysis and Physics
+- 👀 I’m a 2nd year Statistics Student with a minor in Physics at the University of Waterloo
+- 🌱 I have a keen interest in ML/AI, Data Analysis and Physics
+- 💻 Ask me anything about Python but I know C and C++ as well
 - 💞️ I’m currently learning Qiskit a framework for quanutm computing
 - 📫 You can reach me out at m5dewan@uwaterloo.ca
 
