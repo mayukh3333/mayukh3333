@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mayukh Dewan
-- 👀 I’m a 3rd year Statistics Student with a minor in Physics at the University of Waterloo
+- 👀 I’m a 4th year Statistics Student with a minor in Physics at the University of Waterloo
 - 🌱 I have a keen interest in ML/AI, Data Analysis and Physics
 - 💻 Ask me anything about Python but I know C and C++ as well
 - 💞️ I’m currently learning Qiskit a framework for quanutm computing
